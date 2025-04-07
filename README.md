@@ -1,5 +1,5 @@
 # PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-## Experiment:
+## Experiment :
 Develop a comprehensive report for the following exercises:
 ## 1. Foundational Concepts of Generative AI
 Generative AI is a branch of artificial intelligence focused on creating new content such as text, images, audio, and video. It works by learning patterns from existing data and generating outputs that resemble real data. The foundational concepts include unsupervised learning, probabilistic models, and neural networks, especially deep learning. Techniques such as Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and autoregressive models form the basis for content generation. These models learn the underlying structure and semantics of data, enabling them to create high-quality, realistic outputs.
