@@ -6,9 +6,13 @@ Generative AI is a branch of artificial intelligence focused on creating new con
 
 ## 2. Generative AI Architectures (like Transformers)
 Among the most significant advancements in Generative AI is the transformer architecture. Introduced in the "Attention is All You Need" paper, transformers rely on self-attention mechanisms to process input data in parallel rather than sequentially. This enables better contextual understanding and scalability. Transformer-based models like GPT (Generative Pre-trained Transformer), BERT (Bidirectional Encoder Representations from Transformers), and T5 (Text-to-Text Transfer Transformer) have set new standards in natural language understanding and generation. These architectures can handle large-scale datasets efficiently and produce human-like outputs, which has driven their widespread adoption in modern AI systems.
+![im11](https://github.com/user-attachments/assets/233e8a96-47df-428f-bee5-2819e7ee804e)
+
 
 ## 3. Applications of Generative AI
 Generative AI has revolutionized multiple industries with its ability to automate and enhance creative tasks. In content creation, it helps generate articles, code, poetry, and even music. In healthcare, it assists in drug discovery by predicting molecular structures. In education, it powers intelligent tutoring systems that provide personalized learning. In entertainment, it’s used to create deepfakes, game content, and animations. Other applications include chatbots, voice synthesis, data augmentation for machine learning, and generative design in engineering. The versatility and creativity of generative models have made them indispensable tools in both research and industry.
+![im2](https://github.com/user-attachments/assets/276a9fb0-b17d-4876-8cb8-406e101e7471)
+
 
 ## 4. Impact of Scaling in LLMs
 Scaling Large Language Models (LLMs) has shown significant improvements in language understanding, reasoning, and generation quality. As the number of parameters increases, models exhibit emergent behaviors—capabilities that weren’t explicitly trained but appear with scale, such as multi-step reasoning or in-context learning. For instance, models like GPT-3 and GPT-4, with billions of parameters, can perform tasks like translation, summarization, and even coding with high accuracy. However, scaling also introduces challenges, such as increased computational cost, energy consumption, and the risk of generating biased or harmful content. Despite this, the benefits of scaling have pushed research toward even larger and more capable models, shaping the future of human-AI collaboration.
@@ -19,12 +23,16 @@ Generative AI refers to artificial intelligence systems capable of creating new 
 These models are trained on vast datasets and learn to identify patterns, structures, and relationships within the data.
 By leveraging techniques such as deep learning and neural networks, generative AI can produce content that is often indistinguishable from human-created output.
 It includes applications like language models (e.g., GPT), image generators (e.g., DALL-E), and music composers.
+![image](https://github.com/user-attachments/assets/a08c8169-4f2a-42a4-bec8-c5ea8deef5a0)
+
 
 # 6. What are LLMs (Large Language Models)?
 Large Language Models (LLMs) are a subset of generative AI focused specifically on natural language processing tasks.
 They are trained on extensive text corpora and use deep learning architectures, particularly transformers, to understand and generate human-like text.
 LLMs have billions of parameters and are capable of tasks such as translation, summarization, question answering, and conversational interaction.
 Examples include OpenAI’s GPT series, Google’s BERT, and Meta’s LLaMA.
+![im 3](https://github.com/user-attachments/assets/c31d4c34-c321-4a18-b9ad-d9e973ab962c)
+
 
 # 7. Evolution of Generative AI and LLMs
 The journey of generative AI began with simple rule-based systems and evolved through statistical methods to advanced neural networks.
@@ -35,6 +43,8 @@ However, the true revolution came with the Transformer architecture, introduced 
 Transformers enabled parallel processing and better context understanding, leading to the development of powerful LLMs like BERT and GPT.
 These models brought capabilities like transfer learning, few-shot learning, and zero-shot learning into practical use.
 The scale of models also increased dramatically, with GPT-3 having 175 billion parameters and being capable of complex tasks with minimal examples.
+![image](https://github.com/user-attachments/assets/db29f7a6-21b3-4de6-b625-9ad4770e38bb)
+
 
 # 8. Types of Generative AI Models
 Generative AI encompasses various model types based on their application domain:
@@ -48,6 +58,8 @@ Audio Generation Models: WaveNet, Jukebox.
 Video Generation Models: GAN-based video generators, RunwayML.
 
 Code Generation Models: Codex, CodeT5, AlphaCode.
+![im55](https://github.com/user-attachments/assets/ae7a4c8b-4130-4b34-a346-b7857015d30f)
+
 
 # 9. Architecture of LLMs
 The architecture of LLMs is predominantly based on transformers.
@@ -63,6 +75,9 @@ Feedforward Neural Networks: Applied after attention layers to process informati
 Positional Encoding: Injects information about the position of tokens in the sequence.
 LLMs like GPT use a decoder-only architecture, while models like BERT use encoder-only, and T5 uses both encoder and decoder.
 Training these models involves unsupervised or semi-supervised learning on large text corpora, followed by fine-tuning for specific tasks.
+![image](https://github.com/user-attachments/assets/c6de1bd3-c1b0-4ab2-a328-617fa068369e)
+
+
 
 # 10. Applications of Generative AI
 Generative AI has a wide range of applications across different domains:
@@ -83,6 +98,8 @@ Entertainment: Game design, script writing.
 
 Software Development: Code generation, documentation.
 These applications help in improving productivity, creativity, and automation across industries.
+![image](https://github.com/user-attachments/assets/ebb8e0e2-1a4e-481d-9820-2187f027fab5)
+
 
 # 11. Benefits of Generative AI and LLMs
 The benefits of generative AI and LLMs include:
